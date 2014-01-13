@@ -16,3 +16,8 @@
 *.exe
 *.out
 *.app
+
+# Kicad board ignore files
+*.000
+*.bak
+*.net
