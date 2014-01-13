@@ -1,0 +1,33 @@
+	global	init	main	draw	=	game	play	speed	ball_	beep	key	paddle	font_
+r0				rast0		
+r1				rast1		
+r2				rast2		
+r3				rast3		
+r4				rast4		
+r5				rast5		
+r6				rast6		
+r7				rast7		
+r8				rast8		
+r9				rast9		
+r10				rast10		
+r11				rast11		
+r12				rast12			
+r13				rast13			dy
+r14				rast14			pat
+r15				rast15			pbt
+r16		temp		rast16			bb						
+r17				rast17			bl						
+r18				rast18			dx	=					
+r19				rast19			pab
+r20				rast20			pbb
+r21				rast21			bt	=
+r22				rast22		temp			loc				temp
+r23				rast23		work			work		stat	work	work
+r24				pos	fontd	stat			pat	ctr	ctr		score
+r25	itemp	=	=	=	=	=	=	=	=	=	=	=	=
+r26=xl			temp	pattern	pat01								xl
+r27=xh			nxline	=	pat10								xh
+r28=yl	line	=	=	=	=	=	=	=	=	=	=	=	=
+r29=yh	tone	=	=	=	=	=	=	=	=	=	=	=	=
+r30=zl		Glob	=	zl		Glob	=	=	=	=	=	=	zl
+r31=zh		Glob	=	zh		Glob	=	=	=	=	=	=	zh

@@ -1,0 +1,33 @@
+eeschema (2012-apr-16-27)-stable  >> Creation date: dim. 12 janv. 2014 23:06:39 CET
+
+#Cmp ( ordre = Référence )
+| C1         .1u         
+| C2         1n          
+| C3         3.3u        
+| C4         3.3u        
+| C5         20p         
+| C6         20p         
+| CON1       CONN_3X2    
+| CON2       VIDEO       
+| CON3       AUDIO       
+| CON4       CONN_2      
+| D1         1N4148      
+| D2         1N4148      
+| D3         1N4148      
+| D4         1N4148      
+| IC1        ATTINY2313-P
+| LED1       LED         
+| R1         1.5k        
+| R2         100k        
+| R3         470r        
+| R4         150r        
+| R5         75r         
+| R6         390R        
+| R7         10k         
+| RV1        10k         
+| RV2        10k         
+| SW2        SW_PUSH     
+| X1         Mhz         
+#End Cmp
+
+#End List
